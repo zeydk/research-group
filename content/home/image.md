@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id: rtete
 headless: true
-weight: 30
+weight: 0
 title: null
 subtitle: null
 active: true
