@@ -2,7 +2,7 @@
 advanced:
   ? css_style
   ? css_class
-widget: hero
+widget: featured
 widget_id: ana-sayfa
 headless: true
 weight: 10
