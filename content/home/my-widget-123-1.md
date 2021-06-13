@@ -11,4 +11,6 @@ design:
     image_darken: 1
     image: solidarity-amico-1-.png
 ---
+![](shared-workspace-bro.png)
+
 Hebele and hubele
