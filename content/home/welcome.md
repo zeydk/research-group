@@ -10,7 +10,7 @@ title: Computational Social Research
 subtitle: ""
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: ""
 hero_media: welcome.jpg
