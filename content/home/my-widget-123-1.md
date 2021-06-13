@@ -1,5 +1,5 @@
 ---
-widget: porfolio
+widget: blank
 widget_id: my-widget-123
 headless: true
 weight: 30
