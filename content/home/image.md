@@ -1,7 +1,7 @@
 ---
 advanced:
   css_class: fullscreen
-widget: blank
+widget: porfolio
 widget_id: rtete
 headless: true
 weight: 0
