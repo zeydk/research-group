@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: welcome.jpg
+    image: shared-workspace-bro.png
     image_darken: 0
     image_parallax: false
     image_position: center
