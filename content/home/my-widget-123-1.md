@@ -9,8 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 1
-    image: solidarity-amico-1-.png
+    image: ""
 ---
-![](shared-workspace-bro.png)
 
 Hebele and mubele
