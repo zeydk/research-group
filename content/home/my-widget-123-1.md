@@ -13,4 +13,4 @@ design:
 ---
 ![](shared-workspace-bro.png)
 
-Hebele and hubele
+Hebele and mubele
