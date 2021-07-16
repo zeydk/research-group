@@ -11,5 +11,4 @@ design:
     image_darken: 1
     image: ""
 ---
-
-Hebele and mubele
+Twittersphere (c) 2021
