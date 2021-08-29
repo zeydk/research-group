@@ -11,7 +11,13 @@ social: []
 organizations:
   - name: Syracuse University
 education:
-  courses: []
+  courses:
+    - course: M.A in Sociology
+      institution: Istanbul Sehir Universitesi
+      year: 2018
+    - course: B.A in Sociology
+      institution: Bogazici Universitesi
+      year: 2016
 superuser: true
 user_groups:
   - Researchers
