@@ -10,14 +10,14 @@ interests:
 social:
   - display:
       header: true
-    link: mailto:hkoytak@syr.edu
-    icon: envelope
-    icon_pack: fas
-  - display:
-      header: true
     link: https://scholar.google.com/citations?user=nestUyQAAAAJ&hl=en
     icon_pack: fas
     icon: google-scholar
+  - display:
+      header: false
+    link: "mailto: hkoytak@syr.edu"
+    icon_pack: ai
+    icon: envelope
 organizations:
   - name: Syracuse University
 education:
