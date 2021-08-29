@@ -1,5 +1,5 @@
 ---
-title: Ibrahim Emre Yanik
+title: İbrahim Emre Yanik
 role: Social Researcher
 avatar_filename: avatar
 social: []
