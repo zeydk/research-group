@@ -7,7 +7,17 @@ interests:
   - Immigration
   - Race and Ethnicity
   - Social policy
-social: []
+social:
+  - display:
+      header: true
+    link: mailto:hkoytak@syr.edu
+    icon: envelope
+    icon_pack: fas
+  - display:
+      header: true
+    link: https://scholar.google.com/citations?user=nestUyQAAAAJ&hl=en
+    icon_pack: fas
+    icon: google-scholar
 organizations:
   - name: Syracuse University
 education:
