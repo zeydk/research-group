@@ -5,6 +5,8 @@ bio: My research interests include race and ethnicity, human geography,
   immigrant incorporation and social policy.
 interests:
   - Immigration
+  - Race and Ethnicity
+  - Social policy
 social: []
 organizations:
   - name: Syracuse University
