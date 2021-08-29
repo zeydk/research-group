@@ -12,6 +12,9 @@ organizations:
   - name: Syracuse University
 education:
   courses:
+    - course: Ph.D Candidate in Sociology
+      institution: Syracuse University
+      year: 2021
     - course: M.A in Sociology
       institution: Istanbul Sehir Universitesi
       year: 2018
