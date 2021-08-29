@@ -1,5 +1,5 @@
 ---
-role: Ph.D. Candidate in Sociology
+role: Social Researcher
 avatar_filename: index.jpg
 bio: My research interests include race and ethnicity, human geography,
   immigrant incorporation and social policy.
