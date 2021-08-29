@@ -1,6 +1,6 @@
 ---
 role: Social Researcher
-avatar_filename: index.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include race and ethnicity, human geography,
   immigrant incorporation and social policy.
 interests:
