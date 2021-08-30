@@ -14,7 +14,7 @@ social:
     icon: google-scholar
     icon_pack: ai
   - display:
-      header: true
+      header: false
     link: "mailto: hkoytak@syr.edu"
     icon_pack: fas
     icon: envelope
