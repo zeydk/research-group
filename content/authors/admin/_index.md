@@ -9,15 +9,15 @@ interests:
   - Social policy
 social:
   - display:
-      header: false
-    link: "mailto: hkoytak@syr.edu"
-    icon_pack: ai
-    icon: envelope
-  - display:
-      header: false
+      header: true
     link: https://scholar.google.com/citations?user=nestUyQAAAAJ&hl=en
     icon: google-scholar
     icon_pack: ai
+  - display:
+      header: false
+    link: "mailto: hkoytak@syr.edu"
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: Syracuse University
 education:
