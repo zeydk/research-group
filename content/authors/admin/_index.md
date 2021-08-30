@@ -9,7 +9,7 @@ interests:
   - Social policy
 social:
   - display:
-      header: true
+      header: false
     link: https://scholar.google.com/citations?user=nestUyQAAAAJ&hl=en
     icon: google-scholar
     icon_pack: ai
