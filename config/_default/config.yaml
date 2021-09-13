@@ -5,7 +5,7 @@
 
 title: Twittersphere Research Group # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: ''Twittersphere 2021'
 
 ############################
 ## LANGUAGE
@@ -64,7 +64,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
+  author: people
 related:
   threshold: 80
   includeNewer: true
