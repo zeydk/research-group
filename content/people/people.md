@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Meet the Team
-subtitle:
+subtitle: Our research team consists of social researchers and computational experts who utilize big data to understand public attitudes, social disparities and behaviors.
 
 content:
   # Choose which groups/teams of users to display.
@@ -22,6 +22,7 @@ content:
   - Administration
   - Visitors
   - Alumni
+  - Research Associates
 design:
   show_interests: false
   show_role: true
