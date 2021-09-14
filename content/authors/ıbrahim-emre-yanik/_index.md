@@ -1,7 +1,7 @@
 ---
 title: İbrahim Emre Yanik
 role: Social Researcher
-avatar_filename: https://www.maxwell.syr.edu/uploadedImages/soc/Students/Ibraham%20Yanik.jpg
+avatar_filename: avatar.jpg
 social: []
 superuser: false
 user_groups:
