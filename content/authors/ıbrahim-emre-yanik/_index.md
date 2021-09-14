@@ -3,6 +3,10 @@ title: İbrahim Emre Yanik
 role: Social Researcher
 avatar_filename: avatar.jpg
 social: []
+education:
+  courses:
+    - course: BA in Sociology
+      institution: Bogazici University
 superuser: false
 user_groups:
   - Researchers
