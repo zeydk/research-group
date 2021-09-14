@@ -5,7 +5,7 @@
 
 title: Twittersphere Research Group # Website name
 baseurl: '' # Website URL
-copyright: ''Twittersphere 2021'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
