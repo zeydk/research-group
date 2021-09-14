@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Twittersphere Research Group # Website name
-baseurl: '' # Website URL
+baseurl: 'http://www.twittershpere.net' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -64,7 +64,7 @@ taxonomies:
   tag: tags
   category: categories
   publication_type: publication_types
-  author: people
+  author: authors
 related:
   threshold: 80
   includeNewer: true
